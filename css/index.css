@@ -1,0 +1,49 @@
+
+.meniu{
+    border-bottom: 2px solid olive;
+    margin-bottom: 20px;
+}
+
+.btnhide{
+    background-color: olive;
+    color: white;
+    border: 2px solid olive;
+    margin-bottom: 20px;
+}
+
+.hide{
+    
+    border-bottom: 2px solid olive;
+}
+
+.tasteaza{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.modifica{
+    background-color: olive;
+    border: 2px solid olive;
+    color:  white;
+}
+
+.butoane{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.addCar
+{
+    background-color: olive;
+    color: white;
+}
+
+.removeCar{
+    background-color: yellowgreen;
+}
+
+.dispare{
+    display:none;
+}
